@@ -9,6 +9,8 @@
 
 #define SOCKET int
 
+// Them Comment in here
+
 // funtion to set color 
 typedef enum TextColor
 {
